@@ -11,8 +11,10 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
-:q
-|2,0,1711107440,,"q"
+:wq
+|2,0,1712320538,,"wq"
+:WQ
+|2,0,1712320532,,"WQ"
 
 # Search String History (newest to oldest):
 
@@ -25,15 +27,18 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/touch
-|4,48,1,0,1711107440,"~/touch"
+'0  1  40  ~/devops
+|4,48,1,40,1712320538,"~/devops"
 
 # Jumplist (newest first):
--'  1  0  ~/touch
-|4,39,1,0,1711107440,"~/touch"
+-'  1  40  ~/devops
+|4,39,1,40,1712320538,"~/devops"
 
 # History of marks within files (newest to oldest):
 
-> ~/touch
-	*	1711107434	0
-	"	1	0
+> ~/devops
+	*	1712320532	0
+	"	1	40
+	^	1	41
+	.	1	40
+	+	1	40
