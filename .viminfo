@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1712320538,,"wq"
+|2,0,1712400590,,"wq"
 :WQ
 |2,0,1712320532,,"WQ"
 
@@ -27,14 +27,27 @@
 # Registers:
 
 # File marks:
-'0  1  40  ~/devops
-|4,48,1,40,1712320538,"~/devops"
+'0  1  20  ~/bhavani
+|4,48,1,20,1712400590,"~/bhavani"
+'1  1  40  ~/devops
+|4,49,1,40,1712320538,"~/devops"
 
 # Jumplist (newest first):
+-'  1  20  ~/bhavani
+|4,39,1,20,1712400590,"~/bhavani"
+-'  1  40  ~/devops
+|4,39,1,40,1712320538,"~/devops"
 -'  1  40  ~/devops
 |4,39,1,40,1712320538,"~/devops"
 
 # History of marks within files (newest to oldest):
+
+> ~/bhavani
+	*	1712400589	0
+	"	1	20
+	^	1	21
+	.	1	20
+	+	1	20
 
 > ~/devops
 	*	1712320532	0
